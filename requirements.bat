@@ -1,0 +1,1 @@
+python -m pip install PyQt5 PyQtWebEngine PyQt5-sip
