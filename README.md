@@ -2,4 +2,4 @@
  A simple Pyqt5 Web Browser
  
 <br/>
-<img src="capturar.PNG"></img>
+<img src="Capturar.PNG"></img>
