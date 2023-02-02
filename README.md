@@ -1,2 +1,5 @@
 # PyBrowser
- A simple Python Web Browser
+ A simple Pyqt5 Web Browser
+ 
+<br/>
+<img src="CAPTURA.png"></img>
